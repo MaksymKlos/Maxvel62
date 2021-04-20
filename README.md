@@ -2,6 +2,8 @@
 - 👀 I’m interested in Sport, Music, Graphics and Programming for sure
 - 🌱 I’m currently learning Asp.Net Core
 
+--------------------------------------------------------------------------
+
 My skills are:
 - Html
 - Css
