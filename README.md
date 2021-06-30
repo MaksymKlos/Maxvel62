@@ -8,7 +8,7 @@
 - Html, Css, Js, Jquery, bootstrap
 - C#
 - EF Core
-- AspNet Mvc
+- AspNet Core Mvc
 <!---
 Maxvel62/Maxvel62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
