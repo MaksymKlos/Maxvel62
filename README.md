@@ -5,7 +5,7 @@
 --------------------------------------------------------------------------
 
   My skills are:
-- Html, Css, Js
+- Html, Css, Js, Jquery, bootstrap
 - C#
 - EF Core
 - AspNet Mvc
