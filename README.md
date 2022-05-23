@@ -1,8 +1,8 @@
 # LinkedIn: https://www.linkedin.com/in/maksym-klos/
 # .NET Framework, .NET CORE, C#
 # ASP.NET MVC, ASP.NET WEB-API, WPF, gRPC
-# XML, XAML, XSLT, JSON
-# Entity Framework, ADO.NET, SQL
+# XML, XAML, YAML, JSON
+# Entity Framework Core, ADO.NET, SQL
 # HTML, CSS, JS, Ts, Bootstrap
 
 <!---
