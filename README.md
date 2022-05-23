@@ -1,11 +1,4 @@
-- 👋 Hi, I’m Max
-- 👀 I’m interested in Sport, Music, Graphics and Programming for sure
-- 🌱 I’m currently learning Asp.Net Core
-
---------------------------------------------------------------------------
-
- My Technical skills (work with): 
-
+# LinkedIn: https://www.linkedin.com/in/maksym-klos/
 # .NET Framework, .NET CORE, C#
 # ASP.NET MVC, ASP.NET WEB-API, WPF, gRPC
 # XML, XAML, XSLT, JSON
